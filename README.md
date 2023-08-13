@@ -3,3 +3,9 @@ Frontend : React.JS
 Backend : Golang  
 Database : MongoDB  
 Other tools : Postman  
+
+Features :
+- Add new Order
+- Update Order
+- Update / Change Waiter
+- Delete Order
