@@ -4,7 +4,7 @@ Backend : Golang
 Database : MongoDB  
 Other tools : Postman    
   
-Features :
+Features:
 - Add new Order
 - Update Order
 - Update / Change Waiter
