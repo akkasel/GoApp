@@ -38,11 +38,11 @@ I worked on this project individually.
     API with basic CRUD (Create, Read, Update, Delete) functionality that 
     my frontend application can interact with. I use Gin Framework.
     
-    ![Screenshot 2023-08-14 153651.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fca2f8c1-769e-479d-a181-c6b4824e986a/Screenshot_2023-08-14_153651.jpg)
+    ![Backend API run successfully](https://github.com/akkasel/GolangFullStackApp/blob/main/screenshots/Screenshot%202023-08-14%20153651.jpg)
     
     After that, I use Postman to test all of the backend API that I have built (POST / GET / PUT / DELETE)
     
-    ![Screenshot 2023-08-14 153935.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d5d0ca2-1faa-4473-b58b-5219748b5bb1/Screenshot_2023-08-14_153935.jpg)
+    ![Testing in Postman](https://github.com/akkasel/GolangFullStackApp/blob/afcc1edf94b5ea6ec0065c827249f55861c6940d/screenshots/Screenshot%202023-08-14%20153935.jpg)
     
 3. Frontend
     - create-react-app frontend
@@ -75,15 +75,13 @@ I worked on this project individually.
 
 backend API
 
-![frontend (will be updated)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ce57027-9189-4c2b-ad21-bde8211b2645/Screenshot_2023-08-14_155656.jpg)
+![frontend (will be updated)](https://github.com/akkasel/GolangFullStackApp/blob/afcc1edf94b5ea6ec0065c827249f55861c6940d/screenshots/Screenshot%202023-08-14%20155656.jpg)
 
 frontend (will be updated)
 
-![Add Order functionality](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/49c1e6d2-bb86-471e-a915-46b477fed4d3/Screenshot_2023-08-14_155720.jpg)
+![Add Order functionality](https://github.com/akkasel/GolangFullStackApp/blob/afcc1edf94b5ea6ec0065c827249f55861c6940d/screenshots/Screenshot%202023-08-14%20155720.jpg)
 
 Add Order functionality
-
-**Source Code:**
   
 Features:
 - Add new Order
