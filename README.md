@@ -21,9 +21,11 @@ Web Application to manage restaurant orders. This applications is built with Go 
 4. ************************Other Tools :************************ Postman
     - to test the Backend CRUD [ Create, Read, Update, Delete ] API ( POST / GET / PUT / DELETE )
 
-**Role:**
-
-I worked on this project individually.
+**Features:**
+- Add new Order
+- Update Order
+- Update / Change Waiter
+- Delete Order
 
 **Process:**
 
@@ -71,7 +73,7 @@ I worked on this project individually.
 
 **Screenshots or Demo:**
 
-![backend API](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/270033ff-3930-4718-9d00-2bfc7ce333ee/Screenshot_2023-08-14_153651.jpg)
+![Backend API run successfully](https://github.com/akkasel/GolangFullStackApp/blob/main/screenshots/Screenshot%202023-08-14%20153651.jpg)
 
 backend API
 
@@ -81,10 +83,4 @@ frontend (will be updated)
 
 ![Add Order functionality](https://github.com/akkasel/GolangFullStackApp/blob/afcc1edf94b5ea6ec0065c827249f55861c6940d/screenshots/Screenshot%202023-08-14%20155720.jpg)
 
-Add Order functionality
-  
-Features:
-- Add new Order
-- Update Order
-- Update / Change Waiter
-- Delete Order
+add Order functionality
