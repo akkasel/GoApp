@@ -1,0 +1,181 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  margin-bottom: 10%;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.primary-button {
+  background-color: #121212;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.primary-button:hover {
+  background-color: #121212;
+  color: #EF6C00;
+}
+
+.secondary-button {
+  background-color: grey;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.secondary-button:hover {
+  background-color: darkgrey;
+  color: white;
+}
+
+body {
+  margin: 10;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #121212;
+}
+
+code {
+  font-family: 'Poppins', sans-serif;
+}
+
+.customCard {
+  background: #121212;
+  border-color: white;
+  padding: 0.1%;
+  padding-left: 1%;
+  margin: 0.5%;
+  font-family: 'Poppins', sans-serif;
+}
+
+.customColumn {
+  padding: 1%;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+.customHeaderText {
+  margin-left: 7.0%;
+  color: #EF6C00;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.buttonAdd {
+  color: #121212;
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
+  background-color: #EF6C00;
+  border-color: #EF6C00;
+  font-weight: bold;
+}
+
+.buttonAdd:hover {
+  color: #EF6C00;
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
+  background-color: #121212;
+  border-color: #EF6C00;
+}
+
+.customModal .modal-content {
+  background-color: #EF6C00;
+}
+
+.modal-backdrop {
+  background-color: #121212;
+}
+
+.modalTitle {
+  font-weight: bold;
+  color: #121212;
+  border: #121212;
+}
+
+.customFormLabel {
+  color: #121212;
+}
+
+.customDeleteButton {
+  background-color: #CF6679;
+  border-color: #CF6679;
+}
+
+.customDeleteButton:hover {
+  background-color: #121212;
+  color: #CF6679;
+  border-color: #CF6679;
+}
+
+.customChangeWaiterButton {
+  background-color: #03dac6;
+  border-color: #03dac6;
+}
+
+.customChangeWaiterButton:hover {
+  background-color: #121212;
+  border-color: #03dac6;
+  color: #03dac6;
+}
+
+.customChangeOrderButton {
+  background-color:#EF6C00;
+  border-color: #EF6C00;
+}
+
+.customChangeOrderButton:hover {
+  background-color: #121212;
+  border-color: #EF6C00;
+  color: #EF6C00;
+}
