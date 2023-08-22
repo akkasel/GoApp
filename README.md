@@ -73,16 +73,13 @@ Web Application to manage restaurant orders. This applications is built with Go 
 
 **Screenshots or Demo:**
 
+**Backend API:**
+
 ![Backend API run successfully](https://github.com/akkasel/GolangFullStackApp/blob/main/screenshots/Screenshot%202023-08-14%20153651.jpg)
 
-Backend API
-
+**Frontend:**
 ![frontend](https://github.com/akkasel/GolangFullStackApp/blob/c169f97c1c7a19bf2dd924b7be28f2345fa7e35b/screenshots/Screenshot%202023-08-22%20151044.jpg)
 ![frontend](https://github.com/akkasel/GolangFullStackApp/blob/main/screenshots/Screenshot%202023-08-22%20151107.jpg)
 ![frontend](https://github.com/akkasel/GolangFullStackApp/blob/main/screenshots/Screenshot%202023-08-22%20151128.jpg)
 
 Frontend
-
-![Add Order functionality](https://github.com/akkasel/GolangFullStackApp/blob/afcc1edf94b5ea6ec0065c827249f55861c6940d/screenshots/Screenshot%202023-08-14%20155720.jpg)
-
-add Order functionality
